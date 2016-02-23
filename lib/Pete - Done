@@ -1,0 +1,8 @@
+What is a conditonal?  
+A conditional is used in coding  for the program to take certain actions if certain conditions have been met.  
+if, else, and else if statements are all used here.
+a coding example that I found online was if the name entered in is put in as Peter then the response would be "Hello Peter"
+if the name entered was not Peter then the response would be "Hello someone else
+
+What is the difference betwen = and ==?
+a single = sets the value of the variable whereas == makes sure they are equal.  
